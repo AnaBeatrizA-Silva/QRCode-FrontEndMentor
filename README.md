@@ -2,8 +2,8 @@
 
 Expectation:
 
-![alt text](desktop-design.jpg)
+<img alt="" src="./img/desktop-design.jpg" >
 
 Mine:
 
-![alt text](qrCodeFinal.png)
+<img alt="" src="./img/qrCodeFinal.png" >
